@@ -1,6 +1,6 @@
 {
   "name": "@sitespeed.io/tracium",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Chromium trace parser not throwing errors",
   "main": "index.js",
   "repository": "github:aslushnikov/tracium",
